@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463309261447",
+    "project_id": "tabibacom-c39f0",
+    "storage_bucket": "tabibacom-c39f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463309261447:android:a8cd7d0778f90f4b234622",
+        "android_client_info": {
+          "package_name": "com.tabibacom.doctor.tabibacom_doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBulhe1B8YZ3ID8sNvVVgZVyJRPZYnhFt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
